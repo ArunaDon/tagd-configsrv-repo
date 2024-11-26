@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: contract-search-service
+
 contract-search-service:
   version: v1
 
