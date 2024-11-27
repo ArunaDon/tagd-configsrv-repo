@@ -7,7 +7,7 @@ server:
     context-path: /contract-search-service
 
 elastic-query-config:
-  text-field: title
+  text-field: text
 
 elastic-config:
   index-name: contract-index
